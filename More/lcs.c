@@ -1,10 +1,9 @@
-#include<stdio.h>
-#include<string.h>
 /**
  *      author: iwttry
  *      created: 01/09/2022
 **/
-
+#include<stdio.h>
+#include<string.h>
 #include<stdbool.h>
 int maxx(int a, int b){ return ((a > b) ? a : b);}
 int F[2001][2001];
