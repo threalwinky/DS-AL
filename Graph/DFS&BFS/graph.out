@@ -1,0 +1,6 @@
+Use BFS : 
+From 3 you can visit : 3 1 2 5 4 6 
+Path from 3 to 6 : 3 2 4 6 
+Use DFS : 
+From 3 you can visit : 3 5 2 4 6 1 
+Path from 3 to 6 : 3 2 4 6 
